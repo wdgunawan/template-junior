@@ -120,7 +120,16 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 	background-size: 750px 210px;
 	background-position: top;
 	min-height: 210px;
-	margin-right: 200px;
+	margin-left: 30px;
+	box-shadow: none;
+	position: absolute;
+}
+.menu-header{
+	display: block;
+	z-index: 9997;
+	margin-left: 425px;
+	margin-top: 40px;
+	float: left;
 	box-shadow: none;
 	position: absolute;
 }
@@ -149,8 +158,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 	border-left: 3px solid white;
 }
 .button-top{
-	height: 80px;
-	width: 130px;
+	height: 105px;
+	width: 150px;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	font-size:14pt;
+	padding-top: 25px;
+	margin-left: -35px;
 }
 .button-bottom{
 	height: 35px;
@@ -177,6 +192,28 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 .btn-violet{
 	background: url("assets/images/btn-bottom-violet.png") no-repeat;
 	background-size: 60px 35px;
+}
+.btn-shadow-green{
+	background: url("assets/images/btn-shadow-green.png") no-repeat;
+	background-size: 150px 105px;
+	margin-top: 130px;
+	margin-right: 20px;
+}
+.btn-shadow-red{
+	background: url("assets/images/btn-shadow-red.png") no-repeat;
+	background-size: 150px 105px;
+}
+.btn-shadow-blue{
+	background: url("assets/images/btn-shadow-blue.png") no-repeat;
+	background-size: 150px 105px;
+	margin-top: 105px;
+	margin-right: 5px;
+}
+.btn-shadow-violet{
+	background: url("assets/images/btn-shadow-violet.png") no-repeat;
+	background-size: 150px 105px;
+	margin-top: 70px;
+	margin-right: -15px;
 }
 .span1{
 	float: left;
@@ -355,6 +392,13 @@ video:hover{
 			<div class="logo-container">
 				<div class="logo"></div>
 				<div class="logo-bg"></div>
+				
+				<div class="menu-header">
+					<div class="pull-right button-top btn-shadow-red">Contact</div>
+					<div class="pull-right button-top btn-shadow-violet">Member</div>
+					<div class="pull-right button-top btn-shadow-blue">Frenchise</div>
+					<a href="#" class="pull-right button-top btn-shadow-green">Home</a>
+				</div>
 			</div>
 		</div>
 		<div class="clear"></div>
@@ -368,7 +412,7 @@ video:hover{
 			<div class="clear"></div>
 			<div class="span2">
 				<div class="rounded pull-right images">
-					<video width="140px" src="assets/konsep tekanan.mp4" controls>
+					<video width="140px" src="assets/charles law demo.mp4" controls>
 						Your browser not support video tag HTML 5
 					</video>
 				</div>
