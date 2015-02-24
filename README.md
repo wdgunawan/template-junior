@@ -1,3 +1,3 @@
 # template-junior
 Junior English Course Template 
-by LangitProgramming 2015
+by Lapro 2015
