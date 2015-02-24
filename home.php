@@ -397,7 +397,7 @@ video:hover{
 					<div class="pull-right button-top btn-shadow-red">Contact</div>
 					<div class="pull-right button-top btn-shadow-violet">Member</div>
 					<div class="pull-right button-top btn-shadow-blue">Frenchise</div>
-					<a href="#" class="pull-right button-top btn-shadow-green">Home</a>
+					<a href="." class="pull-right button-top btn-shadow-green">Home</a>
 				</div>
 			</div>
 		</div>
@@ -433,7 +433,7 @@ video:hover{
 
 				<div class="span3 t-left">
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.
 					</p>
 					<p>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
@@ -452,7 +452,7 @@ video:hover{
 					<div class="pull-right border-left button-bottom btn-red">Contact</div>
 					<div class="pull-right border-left button-bottom btn-violet">Member</div>
 					<div class="pull-right border-left button-bottom btn-blue">Frenchise</div>
-					<a href="#" class="pull-right border-left button-bottom btn-green">Home</a>
+					<a href="." class="pull-right border-left button-bottom btn-green">Home</a>
 				</div>
 				<div class="footer-bg"></div>
 			</div>
