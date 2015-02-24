@@ -32,12 +32,8 @@
 			<div class="garis"></div>
 			<div class="content t-justify">
 				<div class="title span6"><font color="00a8eb">Frenchise</font></div>
-				
-				<div class="span4 t-right">
-					<img src="assets/images/foto.jpg" class="pull-right span4 images">
-					</div>
-				
-				</div>
+			<div class="clear"></div>
+			</div>
 			<div class="clear"></div>
 			<div class="footer-blue">
 				<div class="content footer-text">
